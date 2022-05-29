@@ -1,0 +1,15 @@
+C:\Users\ozzie\Desktop\Fall 2022\221 refresher & 321 prep\repos\repost\bin\Debug\net6.0\repost.exe
+C:\Users\ozzie\Desktop\Fall 2022\221 refresher & 321 prep\repos\repost\bin\Debug\net6.0\repost.deps.json
+C:\Users\ozzie\Desktop\Fall 2022\221 refresher & 321 prep\repos\repost\bin\Debug\net6.0\repost.runtimeconfig.json
+C:\Users\ozzie\Desktop\Fall 2022\221 refresher & 321 prep\repos\repost\bin\Debug\net6.0\repost.dll
+C:\Users\ozzie\Desktop\Fall 2022\221 refresher & 321 prep\repos\repost\bin\Debug\net6.0\repost.pdb
+C:\Users\ozzie\Desktop\Fall 2022\221 refresher & 321 prep\repos\repost\obj\Debug\net6.0\repost.csproj.AssemblyReference.cache
+C:\Users\ozzie\Desktop\Fall 2022\221 refresher & 321 prep\repos\repost\obj\Debug\net6.0\repost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozzie\Desktop\Fall 2022\221 refresher & 321 prep\repos\repost\obj\Debug\net6.0\repost.AssemblyInfoInputs.cache
+C:\Users\ozzie\Desktop\Fall 2022\221 refresher & 321 prep\repos\repost\obj\Debug\net6.0\repost.AssemblyInfo.cs
+C:\Users\ozzie\Desktop\Fall 2022\221 refresher & 321 prep\repos\repost\obj\Debug\net6.0\repost.csproj.CoreCompileInputs.cache
+C:\Users\ozzie\Desktop\Fall 2022\221 refresher & 321 prep\repos\repost\obj\Debug\net6.0\repost.dll
+C:\Users\ozzie\Desktop\Fall 2022\221 refresher & 321 prep\repos\repost\obj\Debug\net6.0\refint\repost.dll
+C:\Users\ozzie\Desktop\Fall 2022\221 refresher & 321 prep\repos\repost\obj\Debug\net6.0\repost.pdb
+C:\Users\ozzie\Desktop\Fall 2022\221 refresher & 321 prep\repos\repost\obj\Debug\net6.0\repost.genruntimeconfig.cache
+C:\Users\ozzie\Desktop\Fall 2022\221 refresher & 321 prep\repos\repost\obj\Debug\net6.0\ref\repost.dll
