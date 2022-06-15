@@ -9,17 +9,26 @@
 // Console.WriteLine("5"+"5");
 // Console.WriteLine("Chandler"+"Poole");
 
-// strings
-string firstName; //camel casing 
 
+// strings
+//string firstName; //camel casing 
+//Console.WriteLine("Enter in your first name ");
+//firstName = Console.ReadLine();
+//Console.WriteLine("First Name: " + firstName);
 
 //int
-int age;
+//int age = 21;
+//Console.WriteLine("Enter in your age ");
+//string stringAge = Console.ReadLine();
+//age = int.Parse(stringAge);
+//Console.WriteLine("Age: " + age);
 
 // double
-double myDouble;
+//double myDouble = 21.0;
+//Console.WriteLine("My Double: " + myDouble);
 
 //bool
-bool isStudent;
+//bool isStudent = false;
+//Console.WriteLine("Is Student: " + isStudent);
 
 
